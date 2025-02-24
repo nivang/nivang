@@ -10,11 +10,17 @@ Hey! I’m a passionate Software Engineer and AI enthusiast, currently studying 
 
 ## Highlighted Projects
 
-### F1-Vision | Boilermake XII Hackathon
+### 📌 F1-Vision | Boilermake XII Hackathon
 F1-Vision is an immersive Formula 1 app on the Apple Vision Pro that combines live race data with interactive 3D race model, real-time updates, and AI-driven commentary, creating an engaging way to watch F1 races.
 
 - **Tech Stack**: Python, Swift, VisionOS, Reality Kit, SwiftUI, Whisper-Speech
 - **Features**: Interactive maps, live race updates, AI commentary, 3D track simulation.
+
+### 📌 ARchive | Purdue Hello World Hackathon 2024
+ARchive allows users to place custom notes and quotes in augmented reality, which can be discovered and interacted with by others. 
+
+- **Tech Stack**: Swift, ARKit, Flutter, Firebase
+- **Features**: Add, interact with, and manage AR notes, real-time collaboration.
 
 ## Main Skills
 
