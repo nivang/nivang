@@ -16,7 +16,7 @@ F1-Vision is an immersive Formula 1 app on the Apple Vision Pro that combines li
 - **Tech Stack**: Python, Swift, VisionOS, Reality Kit, SwiftUI, Whisper-Speech
 - **Features**: Interactive maps, live race updates, AI commentary, 3D track simulation.
 
-### 📌 ARchive | Purdue Hello World Hackathon 2024
+### 📌 ARchive | Purdue Hello World Hackathon
 ARchive allows users to place custom notes and quotes in augmented reality, which can be discovered and interacted with by others. 
 
 - **Tech Stack**: Swift, ARKit, Flutter, Firebase
